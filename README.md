@@ -6,7 +6,7 @@ I enjoy building things end-to-end — from data pipelines and APIs to AI workfl
 
 🔭 Currently working at **CloudWalk Inc.**  
 🌱 Actively exploring **AI, LLMs, automation, and media pipelines**  
-🤝 Open to collaboration on **Data Engineering, AI, and Platform projects**
+🤝 Open to collaboration on **Data Engineering, AI, Platform, and Automation projects**
 
 ---
 
@@ -16,7 +16,7 @@ I enjoy building things end-to-end — from data pipelines and APIs to AI workfl
 - Integrating LLM APIs (OpenAI, Anthropic, etc.) into real applications
 - Prompt engineering for automation and content generation
 - AI-driven workflows for productivity, analysis, and media
-- Applying AI beyond demos: **production-first mindset**
+- Production-first mindset (not just demos)
 
 ---
 
@@ -110,7 +110,7 @@ I enjoy building things end-to-end — from data pipelines and APIs to AI workfl
 
 ## 😂 Random Dev Meme
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://dev-memes.vercel.app/" width="512px"/>
 
 ---
 
