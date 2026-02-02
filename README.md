@@ -110,7 +110,7 @@ I enjoy building things end-to-end — from data pipelines and APIs to AI workfl
 
 ## 😂 Random Dev Meme
 
-<img src="https://dev-memes.vercel.app/" width="512px"/>
+<img src="https://programming-memes-images.s3.eu-west-1.amazonaws.com/memes/random.png" width="512px"/>
 
 ---
 
