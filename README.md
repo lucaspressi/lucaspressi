@@ -1,40 +1,64 @@
-# 💫 About Me
+# 👋 Hi, I'm Lucas Pressi
 
-Hey! I'm **Lucas Pressi** 👋  
-I'm a **Software Engineer** passionate about building scalable systems, AI-powered products, and automation that actually ships to production.
+I'm a **Data & Platform Engineer** with a strong focus on **AI-powered systems, automation, and production-grade infrastructure**.
+
+I enjoy building things end-to-end — from data pipelines and APIs to AI workflows, bots, and content automation — always with a product mindset and real-world impact.
 
 🔭 Currently working at **CloudWalk Inc.**  
-🌱 Constantly learning and experimenting with **AI, Data Platforms, APIs, Bots, and Content Automation**  
-🤝 Open to collaborating on **Data Engineering, AI, and Automation projects**
+🌱 Actively exploring **AI, LLMs, automation, and media pipelines**  
+🤝 Open to collaboration on **Data Engineering, AI, and Platform projects**
 
 ---
 
-## 🚀 What I’ve Been Working On
+## 🚀 What I Do
 
-- ⚙️ **Data Engineering & Pipelines**
-  - Building and maintaining data pipelines with Python, SQL, Airflow and cloud-native tools
-  - Working with real-time and batch processing
-  - Designing data models and analytics-ready datasets
-
-- 🤖 **AI & Automation**
-  - Deploying and operating **bots (e.g. Discord / automation bots like MoltBot)**
-  - Using **LLMs and AI tools** for automation, content generation, and productivity
-  - Integrating AI into APIs and workflows
-
-- 🎥 **Video & Content Automation**
-  - AI-assisted video production (scripts, edits, captions, workflows)
-  - Automation pipelines for video generation and publishing
-  - Exploring short-form content (Reels / Shorts / TikTok-style pipelines)
-
-- 🌐 **APIs & Infrastructure**
-  - Designing and consuming REST APIs
-  - Dockerized applications and services
-  - Infrastructure as Code with Terraform
-  - Cloud deployments (GCP)
+### 🧠 AI / LLM Systems
+- Integrating LLM APIs (OpenAI, Anthropic, etc.) into real applications
+- Prompt engineering for automation and content generation
+- AI-driven workflows for productivity, analysis, and media
+- Applying AI beyond demos: **production-first mindset**
 
 ---
 
-## 🌐 Socials
+### 📊 Data Engineering
+- Designing and maintaining ETL / ELT pipelines
+- Batch and near real-time data processing
+- Data modeling for analytics and decision-making
+- Orchestration with Apache Airflow
+
+---
+
+### ⚙️ Backend & APIs
+- Designing and building RESTful APIs in Python
+- Secure API design, authentication, and integrations
+- Webhooks and third-party service integrations
+- Automation-first backend services
+
+---
+
+### ☁️ Cloud & Platform Engineering
+- Google Cloud Platform (GCP)
+- Containerized applications with Docker
+- Infrastructure as Code with Terraform
+- Deploying, operating, and maintaining services in production
+
+---
+
+### 🤖 Automation & Bots
+- Building and deploying automation bots (e.g. Discord / service bots)
+- Task orchestration and workflow automation
+- Reducing manual operations through code
+
+---
+
+### 🎥 Media & Content Automation
+- AI-assisted video generation and editing pipelines
+- Subtitle, caption, and short-form content automation
+- End-to-end workflows for media production and publishing
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sampaio-205539135/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lucaspressi)
@@ -43,27 +67,34 @@ I'm a **Software Engineer** passionate about building scalable systems, AI-power
 
 ## 💻 Tech Stack
 
-### 🧠 Data & Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+---
+
+### Data & Analytics
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud & DevOps
+---
+
+### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+---
 
-### 🛠️ Tools & Productivity
+### APIs, Automation & Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
